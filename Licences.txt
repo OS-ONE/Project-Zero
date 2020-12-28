@@ -1,2 +1,6 @@
 Project Zero Terms Of use
-1. 
+Last Updated 12/18/2020
+1. Do not download the project without consent.
+2. Do not sell copies of this project, as it is free, and has no charge.
+3. Do not advertise
+4. Do not implement any script without consent.
